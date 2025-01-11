@@ -31,7 +31,7 @@ const Header = () => {
   };
 
   return (
-    <div className=" relative after:absolute after:top-0 after:right-1/2 after:w-full after:h-full after:z-[-1]  after:bg-primaryBlue">
+    <div className=" relative after:absolute after:top-0 after:right-1/2 after:w-full after:h-full after:z-[-1]  after:bg-primaryBlue px-3">
       <Container className=" flex justify-between flex-wrap items-center text-sm leading-6 text-white bg-primaryBlue py-1 lg:py-2 rounded-full ">
         <div className="left flex gap-x-2 justify-between items-center  sm:w-auto md:gap-x-2 xl:gap-x-7">
           <p className="welcome">

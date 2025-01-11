@@ -12,6 +12,7 @@ module.exports = {
         foreground: "var(--foreground)",
         primaryBlue: "#3661FC",
         primaryOrange: "#FE681E",
+        textBrown: "#6B6161",
         secondary: "#888888",
         moving: "#4043AF",
       },

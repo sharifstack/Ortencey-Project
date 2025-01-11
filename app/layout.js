@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
         />
         <link rel="icon" type="image/png" href="./favicon.png" />
       </head>
-      <body className="bg-gray-300 overflow-hidden">
+      <body className=" overflow-x-hidden scrollbar">
         <Header />
         <Navbar />
         {children}

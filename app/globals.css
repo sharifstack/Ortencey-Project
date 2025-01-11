@@ -2,4 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+.bannerImg {
+  background-image: url("./assets/HeroBanner.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.cardShape:hover {
+  filter: drop-shadow(0px 0px 45px rgba(0, 0, 0, 0.1));
+  transition: all 0.3s linear;
+}
+
+
 
