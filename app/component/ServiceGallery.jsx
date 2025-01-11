@@ -3,11 +3,14 @@ import Container from "./layer/Container";
 import "../globals.css";
 import Image from "next/image";
 import DM from "../assets/DM.png";
-import DMActive from "../assets/DMActive.png";
+import DMActive from '../assets/DMActive.png';
+import GDActive from '../assets/GDActive.png';
+import WDActive from '../assets/WDActive.png';
+
 import GD from "../assets/GD.png";
-import GDActive from "../assets/GDActive.png";
+
 import WD from "../assets/WD.png";
-import WDActive from "../assets/WDActive.png";
+
 import AD from "../assets/AD.png";
 import ADActive from "../assets/ADActive.png";
 import cardHover from "../assets/cardHover.png";
